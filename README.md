@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Scavix
-- 👀 I’m interested in Logic/Functional Programming
+- 👀 I’m interested in Philosophy of language
 - 🌱 I’m currently studying Computer Engineering
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me TBD
