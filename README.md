@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scavix
 - 👀 I’m interested in Philosophy of language
-- 🌱 I’m currently studying Computer Engineering
+- 🌱 I’m currently studying computer engineering @ University of Bologna
 
 <!---
 Scavix/Scavix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
