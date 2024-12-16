@@ -1,6 +1,6 @@
 - Hi, I’m @Scavix
 - Mainly interests: Logic, Foundations of mathematics, Philosophy of language, Symbolic AI
-- Currently studying computer engineering @ University of Bologna
+- Currently studying computer engineering 
 - Temporanely wandering around Sweden
 
 <!---
